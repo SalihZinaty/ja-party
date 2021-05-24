@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.waze {
+    position: absolute;
+    left:69%;
+    top: 62%;
+}
+.tenor {
+    position: absolute;
+    left:45%;
+    top: 69%;
+}
+.spider {
+    position: absolute;
+    left:2%;
+    top: 69%;
+}
+.container {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+.author {
+    position: relative;
+    left: 30%;
+    top:-20%;
+    font-size: 60%;
+}
